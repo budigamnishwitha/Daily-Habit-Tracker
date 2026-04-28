@@ -107,15 +107,21 @@ HabitFlow/
 # Use Cases
 
 Personal productivity tracking,
+
 Habit building (fitness, study, etc.),
+
 Data-driven self-improvement,
+
 Daily routine monitoring.
 
 # Future Enhancements
 
 AI chatbot for habit coaching,
+
 Mobile app version,
+
 Social sharing & community habits,
+
 Notifications & reminders.
 
 # Author
