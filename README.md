@@ -73,6 +73,7 @@ npm install
 # Install frontend dependencies
 cd frontend
 npm install
+
 ▶️ Run the Project
 # Run backend
 npm run dev
